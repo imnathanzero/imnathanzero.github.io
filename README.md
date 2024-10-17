@@ -1,7 +1,7 @@
 Custom ROMs That i build recently
 - [CrDroidAndroid (Android 13)]()
 
-List Of Pending ROMs
+List Of Pending ROMs :
 - [CrDroidAndroid (Android 12L)](https://github.com/crdroidandroid/android/tree/12.1)
 - [Project Awaken (Android 13)](https://github.com/Project-Awaken/android_manifest/tree/triton)
 - [exTHmUI (Android 13)](https://github.com/exTHmUI/android)
@@ -11,26 +11,23 @@ List Of Pending ROMs
 
 **Changelogs of each ROMs will be shown here**
 
-CrDroidAndroid 13
---  --
+CrDroidAndroid 13 :
+-
 - 15/10/2024 :
 - Initial Build Release
 
-CrDroidAndroid 12L
---  --
+CrDroidAndroid 12L :
+-
 
-Project Awaken 13
---  --
+Project Awaken 13 :
+-
 
-exTHmUI 13
---  --
+exTHmUI 13 :
+-
 
-Bootleggers ROM 13
---  --
+Bootleggers ROM 13 :
+-
 
-BaikalOS 13
---  --
+BaikalOS 13 :
+-
 
- 
-**Screenshots**
-*soon...*
