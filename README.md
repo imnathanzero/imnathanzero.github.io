@@ -1,7 +1,7 @@
 > [!NOTE]  
-> All of my builds Are UNOFFICIAL Builds
+> All of my builds Are `UNOFFICIAL` Builds
 >
-> Please keep in mind that all Android 13 ROMs are using **Dynamic Partitions**
+> Please keep in mind that all Android 13 ROMs are using `Dynamic Partitions`
 
 Custom ROMs That i build recently
 - [CrDroidAndroid (Android 13)](https://github.com/imnathanzero/nath/releases/tag/crot-1)
