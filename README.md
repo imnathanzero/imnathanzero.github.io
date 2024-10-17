@@ -1,7 +1,7 @@
 # Pages
-1. **[Start]()**
-2. **[Changelogs]()**
-3. **[Screenshots]()**
+1. **[Start](https://github.com/imnathanzero/imnathanzero.github.io/edit/main/README.md#start)**
+2. **[Changelogs](https://github.com/imnathanzero/imnathanzero.github.io/edit/main/README.md#changelogs-of-each-roms-will-be-shown-here)**
+3. **[Screenshots](https://github.com/imnathanzero/imnathanzero.github.io/edit/main/README.md#screenshots)**
 4. **[About Me]()**
 
 # NOTES !!
@@ -24,22 +24,24 @@ List Of Pending ROMs :
 # **Changelogs of each ROMs will be shown here**
 
 CrDroidAndroid 13 :
--
-- 15/10/2024 :
+
+**15/10/2024**
 - Initial Build Release
 
 CrDroidAndroid 12L :
--
+
 
 Project Awaken 13 :
--
+
 
 exTHmUI 13 :
--
+
 
 Bootleggers ROM 13 :
--
+
 
 BaikalOS 13 :
--
 
+
+
+# Screenshots
