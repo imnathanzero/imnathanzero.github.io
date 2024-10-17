@@ -1,9 +1,3 @@
-# Pages
-1. **[Start](https://github.com/imnathanzero/imnathanzero.github.io/edit/main/README.md#start)**
-2. **[Changelogs](https://github.com/imnathanzero/imnathanzero.github.io/edit/main/README.md#changelogs-of-each-roms-will-be-shown-here)**
-3. **[Screenshots](https://github.com/imnathanzero/imnathanzero.github.io/edit/main/README.md#screenshots)**
-4. **[About Me]()**
-
 # NOTES !!
 > All of my builds Are `UNOFFICIAL` Builds
 >
