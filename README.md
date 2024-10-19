@@ -1,3 +1,6 @@
+**Something that you will looking for...**
+
+**DEVICE = Realme C2 / RMX1941**
 # NOTES !!
 > All of my builds Are `UNOFFICIAL` Builds
 >
