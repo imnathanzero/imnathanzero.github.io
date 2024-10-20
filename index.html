@@ -2,52 +2,59 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>test</title>
-    <!-- Add custom styles here -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
     <style>
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Full viewport height */
+            font-family: Arial, sans-serif;
             margin: 0;
-            background-color: #f2f3f5; /* Light gray background color */
+            padding: 0;
+            background-color: #f4f4f4;
         }
-        
-        .gif-container {
-            width: auto;
-            max-width: 50%;
-            
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
         }
-
-        .loading-message {
-            font-size: 24px;
-            padding-top :10px ;
-           text-align:center ; 
-       } 
-
-      footer{
-          position:absolute ;  
-          left :50% ;   
-          transform :translateX(-50%) ;    
-          
-      }  
-
-      
-   </style>
-
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
 </head>
 <body>
 
-<div class='gif-container'>
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TS1-s0kFk3sgL3ZE7hpOW_lYpRhsSNHf-Q' alt='Cleaning Up GIF'/>
-<p class='loading-message'>Still Preparing...</p></div>
+<header>
+    <h1>Welcome to My Personal Site</h1>
+</header>
 
+<section>
+    <h2>About Me</h2>
+    <p>This is a simple personal website created from my GitHub repository.</p>
+</section>
 
-<footer>just a testing website, hosted by GitHub Pages.</footer>
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li><a href="https://github.com/imnathanzero">My GitHub Profile</a></li>
+        <li><a href="https://github.com/imnathanzero/imnathanzero.github.io">This Repository</a></li>
+    </ul>
+</section>
 
+<footer>
+    <p>&copy; 2024 My Personal Website</p>
+</footer>
 
-
-
-
-  
+</body>
+</html>
