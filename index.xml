@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>lorem ipsum</title>
+<script>
+var txt1 = "wip;
+txt1 += ":D";
+alert(txt1);
+</script>
+</head>
+<body>
+<marquee behavior="scroll" direction="left">loremipsum
+</marquee>
+</body>
+</html>
